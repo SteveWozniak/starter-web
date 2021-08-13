@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Wilzon Caballes -- Trainee -- wilzon.caballes@accenture.com
 
 # THANKS
 
